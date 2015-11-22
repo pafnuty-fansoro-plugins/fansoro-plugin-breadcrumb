@@ -3,14 +3,15 @@
  * Breadcrumb Plugin
  * Based on idea from https://github.com/tovic/breadcrumb-plugin-for-morfy-cms
  *
- * @package Morfy
+ * @package    Morfy
  * @subpackage Plugins
- * @author Pavel Belousov / pafnuty
- * @version 1.0.0
- * @license https://github.com/pafnuty-morfy-plugins/morfy-plugin-breadcrumb/blob/master/LICENSE MIT
+ * @author     Pavel Belousov / pafnuty
+ * @version    1.0.1
+ * @license    https://github.com/pafnuty-morfy-plugins/morfy-plugin-breadcrumb/blob/master/LICENSE MIT
  */
 
-Action::add('breadcrumb', function () {
+Action::add(
+	'breadcrumb', function () {
 
 	// Configuration data
 	$config = Config::get('plugins.breadcrumb');
@@ -43,4 +44,5 @@ Action::add('breadcrumb', function () {
 		]
 	);
 
-});
+}
+);

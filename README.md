@@ -1,8 +1,8 @@
-# Breadcrumb Plugin for [Morfy CMS](http://morfy.org/)
+# Breadcrumb Plugin for [Fansoro CMS](http://fansoro.org/)
 
-![version](https://img.shields.io/badge/version-1.0.1-brightgreen.svg?style=flat-square "Version")
-![DLE](https://img.shields.io/badge/Morfy-2.x-green.svg?style=flat-square "Morfy Version")
-[![MIT License](https://img.shields.io/badge/license-MIT-blue.svg?style=flat-square)](https://github.com/pafnuty-morfy-plugins/morfy-plugin-breadcrumb/blob/master/LICENSE)
+![version](https://img.shields.io/badge/version-1.1.0-brightgreen.svg?style=flat-square "Version")
+![Fansoro](https://img.shields.io/badge/Fansoro-2.x-green.svg?style=flat-square "Fansoro Version")
+[![MIT License](https://img.shields.io/badge/license-MIT-blue.svg?style=flat-square)](https://github.com/pafnuty-fansoro-plugins/fansoro-plugin-breadcrumb/blob/master/LICENSE)
 
 The plugin to create breadcrumbs for site.
 
@@ -31,4 +31,4 @@ labels:
 ```
 
 ## License 
-[MIT](https://github.com/pafnuty/morfy-less/blob/master/LICENSE)
+[MIT](https://github.com/pafnuty/fansoro-less/blob/master/LICENSE)

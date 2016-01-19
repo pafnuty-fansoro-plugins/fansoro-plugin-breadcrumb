@@ -1,13 +1,13 @@
 <?php
 /**
  * Breadcrumb Plugin
- * Based on idea from https://github.com/tovic/breadcrumb-plugin-for-morfy-cms
+ * Based on idea from https://github.com/tovic/breadcrumb-plugin-for-fansoro-cms
  *
- * @package    Morfy
+ * @package    Fansoro
  * @subpackage Plugins
  * @author     Pavel Belousov / pafnuty
- * @version    1.0.1
- * @license    https://github.com/pafnuty-morfy-plugins/morfy-plugin-breadcrumb/blob/master/LICENSE MIT
+ * @version    1.1.0
+ * @license    https://github.com/pafnuty-fansoro-plugins/fansoro-plugin-breadcrumb/blob/master/LICENSE MIT
  */
 
 Action::add(
